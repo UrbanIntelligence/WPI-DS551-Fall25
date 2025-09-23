@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Modified By Yanhua Li on 08/19/2023 for gymnasium==0.29.0
+# Modified By Yanhua Li and Fanxi Kong on 08/2025 for gymnasium==1.20.0
 import gymnasium as gym
 import numpy as np
 import sys
