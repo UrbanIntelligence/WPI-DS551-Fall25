@@ -1,4 +1,4 @@
-# DS551/CS551 Project 4 [Group (3-5 people)]
+# DS551/CS551 Project 4 [Each Group with around 5 students)]
 
 #### Important Dates
 * Project Start
