@@ -4,7 +4,7 @@
 * Project Start
   * **Week 10, Tuesday Oct 28, 2025**
 * Project Proposal Due (Upload to Canvas)
-  * **Week 11, Tuesday Nov 4, 2025 (23:59)**
+  * **Week 11, Wednesday Nov 5, 2025 (23:59)**
   * *About 2 pages*
 * Project Progress Report Due
   * **Week 14, Tuesday Nov 25, 2025 (23:59)**
