@@ -27,8 +27,8 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
-  | 1  | | | | |
-  | 2  | | | | |
+  | 1  | 10/27/2025 | Suryansh Goyal | 68.84 | Vanilla DQN |
+  | 2  | 10/27/2025 | Lucas Lamenha | 59.18 | Dueling DQN |
   | 3  | | | | |
   
 * How to elvaluate
