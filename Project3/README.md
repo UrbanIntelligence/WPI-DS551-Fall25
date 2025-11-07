@@ -27,9 +27,9 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
   
   | Top | Date | Name | Score | Model |
   | :---: | :---:| :---: | :---: | :---: |
-  | 1  | 11/03/2025 | Alex Ballentine | 399.53 | Noisy Dueling DQN |
-  | 2   | 11/03/2025 | Davud Azizov | 71.65 | Vanilla DQN |
-  | 3   | 10/27/2025 | Suryansh Goyal | 68.84 | Vanilla DQN |
+  | ✅ 1  | 11/03/2025 | Alex Ballentine | 399.53 | Noisy Dueling DQN |
+  | ✅ 2   | 11/03/2025 | Davud Azizov | 71.65 | Vanilla DQN |
+  | ✅ 3   | 10/27/2025 | Suryansh Goyal | 68.84 | Vanilla DQN |
   | 4  | 10/27/2025 | Lucas Lamenha | 59.18 | Dueling DQN |
   
 * How to elvaluate
